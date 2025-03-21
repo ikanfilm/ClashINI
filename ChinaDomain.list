@@ -32,6 +32,9 @@ DOMAIN-SUFFIX,onetrust.com
 #hosipital
 DOMAIN-SUFFIX,ngarihealth.com
 
+#Service
+DOMAIN-SUFFIX,sinopec.com
+
 #Bank
 DOMAIN-SUFFIX,cmbchina.com
 
