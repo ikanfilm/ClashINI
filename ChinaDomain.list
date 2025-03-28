@@ -35,6 +35,10 @@ DOMAIN-SUFFIX,ngarihealth.com
 #Service
 DOMAIN-SUFFIX,sinopec.com
 DOMAIN-SUFFIX,sinopecsales.com
+DOMAIN-SUFFIX,adobedtm.com
+DOMAIN-SUFFIX,adobedc.net
+DOMAIN-SUFFIX,marriott.com
+DOMAIN-SUFFIX,omtrdc.net
 
 #Bank
 DOMAIN-SUFFIX,cmbchina.com
