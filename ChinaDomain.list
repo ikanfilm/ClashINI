@@ -42,6 +42,10 @@ DOMAIN-SUFFIX,omtrdc.net
 
 #Bank
 DOMAIN-SUFFIX,cmbchina.com
+DOMAIN-SUFFIX,bankcomm.com
+
+#Apple Weather
+DOMAIN-SUFFIX,weatherkit.apple.com
 
 # CN域名直连(中国|公司|网络)
 DOMAIN-SUFFIX,cn
