@@ -47,6 +47,7 @@ DOMAIN-SUFFIX,bankcomm.com
 #Apple
 DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,mzstatic.com
+DOMAIN-SUFFIX,icloud.com
 
 # CN域名直连(中国|公司|网络)
 DOMAIN-SUFFIX,cn
