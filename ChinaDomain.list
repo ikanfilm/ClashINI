@@ -19,7 +19,6 @@ DOMAIN-SUFFIX,zhenguanyu.com
 DOMAIN-SUFFIX,snapdrop.net
 DOMAIN-SUFFIX,tebex.io
 DOMAIN-SUFFIX,wuuxiang.com
-DOMAIN-SUFFIX,115cdn.net
 
 #3ds.com
 DOMAIN-SUFFIX,3ds.com
@@ -493,6 +492,7 @@ IP-CIDR,1.12.12.12/32,no-resolve
 # AccelerateDirectSites
 DOMAIN-SUFFIX,10010.com
 DOMAIN-SUFFIX,115.com
+DOMAIN-SUFFIX,115cdn.net
 DOMAIN-SUFFIX,12306.com
 DOMAIN-SUFFIX,17173.com
 DOMAIN-SUFFIX,178.com
