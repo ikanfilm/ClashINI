@@ -153,6 +153,9 @@ DOMAIN-SUFFIX,ykimg.com
 DOMAIN-SUFFIX,youku.com
 DOMAIN-SUFFIX,rokid.com
 DOMAIN-SUFFIX,smartont.net
+DOMAIN-SUFFIX,aliyundrive.cloud
+DOMAIN-SUFFIX,aliyunpds.com
+DOMAIN-SUFFIX,alipan.com
 
 # Baidu
 DOMAIN-SUFFIX,baidu.com
